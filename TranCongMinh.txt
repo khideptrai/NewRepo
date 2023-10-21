@@ -1,0 +1,25 @@
+1. Tao class student co cac property sau:
+0p
+2.mark_AVG():tra ve mark trung binh cua student.
+0p
+3.Tạo class TestStudent thực hiện các nhiệm vụ sau: (using Collection ) (10p) 
+
+- tạo method để nhập thông tin của 1 student (2p)
+0p
+- Tạo method để tìm kiếm 1 student bằng name. (2p)
+0p
+- Tạo method để chỉnh sửa thông tin của student. (2p)
+0p
+- Tạo method để xoá student bằng id. (2p)
+0p
+- Tạo method để sắp xếp các student theo thứ tự tăng dần của mark trung bình. (2p)
+0p
+4. Khi chạy chương trình, người dùng có thể chọn chức năng như hình dưới: (3p)
+0p
+5. Tất cả các trường thông tin cần được validate như:
+- 1 Tất cả các field không rỗng (empty string).
+0p
+- 2 Mark là số
+2p
+-3 Mark là số [0 and 100].
+0p
